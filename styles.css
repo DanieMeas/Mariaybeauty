@@ -1,0 +1,43 @@
+h1,h2 {
+  color:white;
+  font-family: 'Amiri', serif;
+
+}
+
+body, html {
+  height: 100%;
+
+}
+
+.main-info {
+  padding-top: 340px;
+}
+
+li {
+  list-style: none;
+  padding-right: 30px;
+}
+
+a {
+  font-family: 'Amiri', serif;
+  color: white;
+}
+
+a:hover  {
+color:#ee41f4;
+font-family: 'Amiri', serif;
+text-decoration: none;
+transition: 0.6s;
+
+}
+
+.cover {
+  background-image: url("images/backgroundimage.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
