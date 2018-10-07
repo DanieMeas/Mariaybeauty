@@ -1,6 +1,7 @@
 h1,h2 {
-  color:white;
+  color: #F0EBF2;
   font-family: 'Amiri', serif;
+  padding-top: 40px;
 
 }
 
@@ -9,18 +10,23 @@ body, html {
 
 }
 
-.main-info {
-  padding-top: 340px;
+.name {
+font-family: 'Tangerine', cursive;
+color: #F0EBF2;
+font-size: 140px;
+
 }
 
 li {
   list-style: none;
   padding-right: 30px;
+  font-size: 20px;
+
 }
 
 a {
   font-family: 'Amiri', serif;
-  color: white;
+  color: #F0EBF2;
 }
 
 a:hover  {
@@ -37,7 +43,18 @@ transition: 0.6s;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  opacity: 0.7;
+  color: #9814C4;
+  
+ 
 }
 
+.main-info {
+  padding-top: 380px;
+  color: #F0EBF2;
+
+  
+}
+  
 
 
