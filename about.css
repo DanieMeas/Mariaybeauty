@@ -1,0 +1,57 @@
+/* Nav bar styles*/
+
+.navbar-brand {
+  font-family:'Tangerine', cursive;
+  color: #14021A;
+  font-size: 240%;
+
+}
+
+.navbar-default {
+    background-color: white;
+    
+   
+  }
+
+.nav-link {
+    color: #14021A;
+    font-family: 'Amiri', serif;
+
+}
+
+
+h1 {
+  font-family: 'Amiri', serif;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  padding-left: 300px;
+}
+
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 650px;
+  margin-top: 15px;
+  margin-left: 20px;
+
+}
+
+
+
+
+p {
+  
+  margin-right: 40px;
+}
+
+.col-sm-6 {
+  padding-top: 35px;
+}
+
+.page-content {
+  padding-left: 40px;
+}
+
+

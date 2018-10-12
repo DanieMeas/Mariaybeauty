@@ -11,9 +11,9 @@ body, html {
 }
 
 .name {
-font-family: 'Tangerine', cursive;
-color: #F0EBF2;
-font-size: 140px;
+  font-family: 'Tangerine', cursive;
+  color: #F0EBF2;
+  font-size: 140px;
 
 }
 
@@ -30,10 +30,10 @@ a {
 }
 
 a:hover  {
-color:#ee41f4;
-font-family: 'Amiri', serif;
-text-decoration: none;
-transition: 0.6s;
+  color:#ee41f4;
+  font-family: 'Amiri', serif;
+  text-decoration: none;
+  transition: 0.6s;
 
 }
 
@@ -43,7 +43,7 @@ transition: 0.6s;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.7;
+  opacity: 0.8;
   color: #9814C4;
   
  
@@ -52,9 +52,12 @@ transition: 0.6s;
 .main-info {
   padding-top: 380px;
   color: #F0EBF2;
-
-  
 }
+
+
+
+
+
   
 
 
