@@ -72,6 +72,7 @@ p {
   font-weight: 300;
   font-size: 1.5em;
   display: inline-block;
+
  }
 
  
@@ -87,6 +88,11 @@ ul {
   font-size: 1.4em;
   margin: 0 5px;
   text-decoration: none;
+  color:grey;
+  float:left;
+  margin-right: 30px;
+  padding-left: 130px;
+
 }
 
 
