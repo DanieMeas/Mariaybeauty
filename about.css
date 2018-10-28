@@ -8,9 +8,7 @@
 }
 
 .navbar-default {
-    background-color: white;
-    
-   
+  background-color: white;
   }
 
 .nav-link {
@@ -33,11 +31,11 @@ h1,h2 {
 
 
 img {
-  border: 1px solid #ddd;
   border-radius: 4px;
   width: 650px;
   margin-top: 15px;
   margin-left: 5px;
+  max-width: 100%;
 
 }
 
@@ -48,22 +46,16 @@ p {
   padding-top:30px;
 }
 
-.col-sm-6 {
-  padding-top: 35px;
+.page-content {
+ background-color: white;
 }
 
-.page-content {
-  padding-left: 20px;
-}
 
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: purple;
     text-align: center;
+    padding-top: 350px;
 }
 
 
@@ -71,13 +63,12 @@ p {
   font-family: "Open Sans";
   font-weight: 300;
   font-size: 1.5em;
-  display: inline-block;
+  
+
 
  }
 
- 
-
-ul {
+ ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -92,6 +83,8 @@ ul {
   float:left;
   margin-right: 30px;
   padding-left: 130px;
+  max-width: 100%;
+
 
 }
 
