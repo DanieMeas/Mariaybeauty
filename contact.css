@@ -1,6 +1,6 @@
 .navbar{
-  background-color: #945EA8;
-  font-family: 'Tangerine', cursive;
+  background-color: grey;
+  font-family: 'Amiri', serif;
   color: #F0EBF2;
   font-size: 140px;
   height: 245px;
@@ -15,7 +15,7 @@ h1{
 
 .email-icon {
   font-weight: 300;
-  font-size: 3.5em;
+  font-size: 2.5em;
   color: grey;
 }
 

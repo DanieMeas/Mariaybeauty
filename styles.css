@@ -1,4 +1,4 @@
-h1,h2 {
+h3 {
   color: #F0EBF2;
   font-family: 'Amiri', serif;
   padding-top: 15px;
@@ -11,9 +11,8 @@ body, html {
 }
 
 .name {
-  font-family: 'Tangerine', cursive;
-  color: #F0EBF2;
-  font-size: 140px;
+  font-family: 'Playfair Display', serif;
+  font-size: 70px;
 
 }
 
@@ -37,25 +36,59 @@ a:hover  {
 
 }
 
-.cover {
-  background-image: url("images/backgroundimage.jpg");
-  height: 100%; 
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 0.8;
-  
-  
-}
-
 .main-info {
   padding-top: 300px;
   color: #F0EBF2;
 }
 
 
+.bg {
+  background: url("images/maria_flowers.jpg") center top no-repeat;
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
+/* Fixed sidenav, full height */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
 
+/* Style the sidenav links and the dropdown button */
+.sidenav a, .dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  border: none;
+  background: none;
+  width:100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
+
+/* On mouse-over */
+.sidenav a:hover {
+  color: #ee41f4;
+}
+
+/* Main content */
+.main {
+  margin-left: 200px; /* Same as the width of the sidenav */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
 
   
 
